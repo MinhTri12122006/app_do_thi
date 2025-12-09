@@ -1,0 +1,6 @@
+streamlit
+networkx
+pyvis
+pandas
+numpy
+scipy
