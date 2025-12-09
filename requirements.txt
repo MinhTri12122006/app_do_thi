@@ -3,4 +3,5 @@ networkx
 pyvis
 pandas
 numpy
+
 scipy
